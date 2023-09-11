@@ -1,1 +1,2 @@
-# As-you-dish-web-app
+# As-You-Dish
+A food recipe web app
